@@ -1,0 +1,10 @@
+[project]
+name = "prompt-inject-ws"
+version = "0.1.0"
+description = "Prompt Injection Workshop — Dynamous AI Mastery"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "anthropic>=0.84.0",
+    "python-dotenv>=1.2.1",
+]
